@@ -39,4 +39,4 @@ p-a-m designers project and ressources web app
 
 The Unlicense (aka: public domain)
 
-web designed with : https://github.com/h5bp/html5-boilerplate
+* web designed with : https://github.com/h5bp/html5-boilerplate
