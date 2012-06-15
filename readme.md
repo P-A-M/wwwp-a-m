@@ -1,23 +1,21 @@
 # [p-a-m](http://p-a-m.fr)
 
-Ce site a pour objectif de répertorier et de mettre en commun, de faire partager les diverses expériences ou projets autour du FAIRE.
+Ce site a pour objectif de rÃ©pertorier et de mettre en commun, de faire partager les diverses expÃ©riences ou projets autour du FAIRE.
 
-FAIRE et PRODUIRE sur un territoire donné, dans un collectif donné.
+FAIRE et PRODUIRE sur un territoire donnÃ©, dans un collectif donnÃ©.
 
-A partir de production diversifiées (artisanales, bricolage, technologiques...)
+A partir de production diversifiÃ©es (artisanales, bricolage, technologiques...)
 
- 
-
-Pour CRÉE ensemble des choses utiles et belles en relation à un territoire, à des usages précis et en dehors des contraintes des marques.
+Pour CRÃ‰E ensemble des choses utiles et belles en relation Ã  un territoire, Ã  des usages prÃ©cis et en dehors des contraintes des marques.
 
 ECHANGER les savoir-faire et les connaissances.
 
-METTRE en VALEUR les compétences de création et de travail collectif autour de projets divers.
+METTRE en VALEUR les compÃ©tences de crÃ©ation et de travail collectif autour de projets divers.
 
-Rendre VISIBLE les processus de production pour élargir les idées du beau et de l'utile, en ne répondant pas seulement par la création d'une forme ou d'un besoin, mais en soutenant un processus de production plus équitable socialement et plus respectueux de notre humanité.
+Rendre VISIBLE les processus de production pour Ã©largir les idÃ©es du beau et de l'utile, en ne rÃ©pondant pas seulement par la crÃ©ation d'une forme ou d'un besoin, mais en soutenant un processus de production plus Ã©quitable socialement et plus respectueux de notre humanitÃ©.
 
  
-Nathalie Bruyère
+Nathalie BruyÃ¨re
 
 
 

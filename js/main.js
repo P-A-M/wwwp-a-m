@@ -3,6 +3,6 @@
 */
 
 
-
+//$('#monText').hide('slow');
 
 
